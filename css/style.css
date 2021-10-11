@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.digitalclock{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    width: 350px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.digitalclock h1{
+    display: inline-block;
+}
+
+#dates {
+    font-size: 20px;
+    text-align: center;
+}
